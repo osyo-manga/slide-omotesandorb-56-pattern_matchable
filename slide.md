@@ -211,7 +211,7 @@ p Time.now.to_four_seasons
 ```ruby
 require "pattern_matchable"
 
-# このファイル内の記事全てに反映される
+# このファイル内でのみ反映される
 using PatternMatchable
 
 class Time
