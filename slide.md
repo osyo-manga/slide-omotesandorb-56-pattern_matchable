@@ -335,6 +335,7 @@ p [name, age]   # => ["homu", 14]
 * パターンマッチは #deconstruct_keys を定義することで任意のクラスをパターンマッチすることができる         <!-- .element: class="fragment" -->
 * <p class="fragment">[pattern_matchable](https://github.com/osyo-manga/gem-pattern_matchable) を使うと簡単に既存のクラスを拡張できるよ         </p>
 * Refinements は最高だな！！         <!-- .element: class="fragment" -->
+* 右代入も最高だな！！         <!-- .element: class="fragment" -->
 
 ---
 
